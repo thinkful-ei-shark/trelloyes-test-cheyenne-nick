@@ -2,7 +2,7 @@ import React from 'react';
 import Card from './Card'
 import List from './List'
 import store from './STORE'
-import './app.css'
+import './App.css'
 
 class App extends React.Component{
   render(){
